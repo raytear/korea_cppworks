@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; //이름공간(std) 선언
 /*
 	c++에 추가된 자료형 - bool, string
 */
