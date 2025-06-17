@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\c\u002B\u002Bworks\\choiceRepeat\\",
+  "WorkspaceRootPath": "C:\\korea_cppworks\\choiceRepeat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEA80C3-157C-4AD3-BCBA-9DB9B5F8715D}|choiceRepeat\\choiceRepeat.vcxproj|solutionrelative:choiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,40 +28,42 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "forEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\forEx.cpp",
+              "DocumentMoniker": "C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\forEx.cpp",
               "RelativeDocumentMoniker": "choiceRepeat\\forEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\forEx.cpp",
+              "ToolTip": "C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\forEx.cpp",
               "RelativeToolTip": "choiceRepeat\\forEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T12:48:58.412Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "keyRepeat.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp",
+              "DocumentMoniker": "C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp",
               "RelativeDocumentMoniker": "choiceRepeat\\keyRepeat.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp",
+              "ToolTip": "C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\keyRepeat.cpp",
               "RelativeToolTip": "choiceRepeat\\keyRepeat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T12:39:03.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T12:39:03.689Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ifEx.cpp",
-              "DocumentMoniker": "C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp",
+              "DocumentMoniker": "C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp",
               "RelativeDocumentMoniker": "choiceRepeat\\ifEx.cpp",
-              "ToolTip": "C:\\c\u002B\u002Bworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp",
+              "ToolTip": "C:\\korea_cppworks\\choiceRepeat\\choiceRepeat\\ifEx.cpp",
               "RelativeToolTip": "choiceRepeat\\ifEx.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T12:29:56.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T12:29:56.111Z"
             }
           ]
         }
