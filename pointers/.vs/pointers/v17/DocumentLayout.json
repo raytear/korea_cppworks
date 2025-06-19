@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\korea_cppworks\\pointers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B179A585-5A57-42E4-ACF5-7850CBDC0E8E}|pointers\\pointers.vcxproj|C:\\korea_cppworks\\pointers\\pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B179A585-5A57-42E4-ACF5-7850CBDC0E8E}|pointers\\pointers.vcxproj|solutionrelative:pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B179A585-5A57-42E4-ACF5-7850CBDC0E8E}|pointers\\pointers.vcxproj|C:\\korea_cppworks\\pointers\\pointers\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B179A585-5A57-42E4-ACF5-7850CBDC0E8E}|pointers\\pointers.vcxproj|solutionrelative:pointers\\pointer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B179A585-5A57-42E4-ACF5-7850CBDC0E8E}|pointers\\pointers.vcxproj|C:\\korea_cppworks\\pointers\\pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B179A585-5A57-42E4-ACF5-7850CBDC0E8E}|pointers\\pointers.vcxproj|solutionrelative:pointers\\calcScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "calcScore.cpp",
               "DocumentMoniker": "C:\\korea_cppworks\\pointers\\pointers\\calcScore.cpp",
               "RelativeDocumentMoniker": "pointers\\calcScore.cpp",
               "ToolTip": "C:\\korea_cppworks\\pointers\\pointers\\calcScore.cpp",
               "RelativeToolTip": "pointers\\calcScore.cpp",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA1wDEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-17T12:03:12.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "pointer1.cpp",
               "DocumentMoniker": "C:\\korea_cppworks\\pointers\\pointers\\pointer1.cpp",
               "RelativeDocumentMoniker": "pointers\\pointer1.cpp",
               "ToolTip": "C:\\korea_cppworks\\pointers\\pointers\\pointer1.cpp",
               "RelativeToolTip": "pointers\\pointer1.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-17T11:38:44.372Z",
               "EditorCaption": ""
