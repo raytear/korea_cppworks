@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\korea_cppworks\\classes\\",
+  "WorkspaceRootPath": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\newDeleteEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\newDeleteEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\newDeleteEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\newDeleteEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\newDeleteEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\newDeleteEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\cardArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\cardArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\cardArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classCard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\testFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\testFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\testFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classRef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\memberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\thisSample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\thisSample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\thisSample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classDog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\informationHide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\informationHide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\informationHide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classDog3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classDog3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\korea_cppworks\\classes\\classes\\classDog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87DD505F-6236-4F6A-829A-89E6FDF64E93}|classes\\classes.vcxproj|solutionrelative:classes\\classDog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -80,11 +80,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "newDeleteEx2.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\newDeleteEx2.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\newDeleteEx2.cpp",
               "RelativeDocumentMoniker": "classes\\newDeleteEx2.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\newDeleteEx2.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\newDeleteEx2.cpp",
               "RelativeToolTip": "classes\\newDeleteEx2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-24T12:34:07.512Z",
               "EditorCaption": ""
@@ -93,100 +93,93 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "newDeleteEx.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\newDeleteEx.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\newDeleteEx.cpp",
               "RelativeDocumentMoniker": "classes\\newDeleteEx.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\newDeleteEx.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\newDeleteEx.cpp",
               "RelativeToolTip": "classes\\newDeleteEx.cpp",
               "ViewState": "AgIAACQAAAAAAAAAAAAswDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T12:22:02.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T12:22:02.327Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "classMath.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classMath.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classMath.cpp",
               "RelativeDocumentMoniker": "classes\\classMath.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classMath.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classMath.cpp",
               "RelativeToolTip": "classes\\classMath.cpp",
               "ViewState": "AgIAABEAAAAAAAAAAAAswCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T12:05:28.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T12:05:28.027Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "cardArray.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\cardArray.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\cardArray.cpp",
               "RelativeDocumentMoniker": "classes\\cardArray.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\cardArray.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\cardArray.cpp",
               "RelativeToolTip": "classes\\cardArray.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T11:33:46.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T11:33:46.945Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "classCard.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classCard.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classCard.cpp",
               "RelativeDocumentMoniker": "classes\\classCard.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classCard.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classCard.cpp",
               "RelativeToolTip": "classes\\classCard.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T11:17:17.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T11:17:17.1Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "testFunction.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\testFunction.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\testFunction.cpp",
               "RelativeDocumentMoniker": "classes\\testFunction.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\testFunction.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\testFunction.cpp",
               "RelativeToolTip": "classes\\testFunction.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T10:37:12.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T10:37:12.892Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "transport.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\transport.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\transport.cpp",
               "RelativeDocumentMoniker": "classes\\transport.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\transport.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\transport.cpp",
               "RelativeToolTip": "classes\\transport.cpp",
               "ViewState": "AgIAACsAAAAAAAAAAAAqwDkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-24T10:22:59.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T10:22:59.531Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "classRef.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classRef.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classRef.cpp",
               "RelativeDocumentMoniker": "classes\\classRef.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classRef.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classRef.cpp",
               "RelativeToolTip": "classes\\classRef.cpp",
               "ViewState": "AgIAACcAAAAAAAAAAAAqwDwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T12:42:58.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:42:58.265Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "memberService.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\memberService.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\memberService.cpp",
               "RelativeDocumentMoniker": "classes\\memberService.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\memberService.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\memberService.cpp",
               "RelativeToolTip": "classes\\memberService.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -196,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "classMember.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classMember.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classMember.cpp",
               "RelativeDocumentMoniker": "classes\\classMember.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classMember.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classMember.cpp",
               "RelativeToolTip": "classes\\classMember.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -208,22 +201,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "classCar.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classCar.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classCar.cpp",
               "RelativeDocumentMoniker": "classes\\classCar.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classCar.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classCar.cpp",
               "RelativeToolTip": "classes\\classCar.cpp",
               "ViewState": "AgIAABoAAAAAAAAAAAAswDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-19T11:33:57.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T11:33:57.622Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "thisSample.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\thisSample.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\thisSample.cpp",
               "RelativeDocumentMoniker": "classes\\thisSample.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\thisSample.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\thisSample.cpp",
               "RelativeToolTip": "classes\\thisSample.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -233,9 +225,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "classDog3.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classDog3.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog3.cpp",
               "RelativeDocumentMoniker": "classes\\classDog3.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classDog3.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog3.cpp",
               "RelativeToolTip": "classes\\classDog3.cpp",
               "ViewState": "AgIAAB4AAAAAAAAAAAAqwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -245,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "informationHide.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\informationHide.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\informationHide.cpp",
               "RelativeDocumentMoniker": "classes\\informationHide.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\informationHide.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\informationHide.cpp",
               "RelativeToolTip": "classes\\informationHide.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -257,9 +249,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "classDog2.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classDog2.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog2.cpp",
               "RelativeDocumentMoniker": "classes\\classDog2.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classDog2.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog2.cpp",
               "RelativeToolTip": "classes\\classDog2.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -269,9 +261,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "classDog.cpp",
-              "DocumentMoniker": "C:\\korea_cppworks\\classes\\classes\\classDog.cpp",
+              "DocumentMoniker": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog.cpp",
               "RelativeDocumentMoniker": "classes\\classDog.cpp",
-              "ToolTip": "C:\\korea_cppworks\\classes\\classes\\classDog.cpp",
+              "ToolTip": "C:\\Users\\SKY\\Desktop\\korea_cppworks\\classes\\classes\\classDog.cpp",
               "RelativeToolTip": "classes\\classDog.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
