@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\multiInherit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\multiInherit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\statement2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\statement2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\autoDatatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\autoDatatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\operatorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\operatorEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\polymorphismEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\polymorphismEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\studentPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\studentPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\studentPerson2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC3C32AF-0438-4501-B2E2-A951183AA7DA}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\studentPerson2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "multiInherit.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\multiInherit.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\multiInherit.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\multiInherit.cpp",
+              "RelativeToolTip": "Inheritance\\multiInherit.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T10:15:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "statement2.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\statement2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\statement2.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\statement2.cpp",
+              "RelativeToolTip": "Inheritance\\statement2.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T12:42:09.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "autoDatatype.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\autoDatatype.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\autoDatatype.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\autoDatatype.cpp",
+              "RelativeToolTip": "Inheritance\\autoDatatype.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T12:28:42.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "polymorphismEx1.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\polymorphismEx1.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\polymorphismEx1.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\polymorphismEx1.cpp",
+              "RelativeToolTip": "Inheritance\\polymorphismEx1.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T12:08:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "operatorEx1.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\operatorEx1.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\operatorEx1.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\operatorEx1.cpp",
+              "RelativeToolTip": "Inheritance\\operatorEx1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T11:41:44.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "statement.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\statement.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\statement.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\statement.cpp",
+              "RelativeToolTip": "Inheritance\\statement.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T11:03:55.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "studentPerson2.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\studentPerson2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\studentPerson2.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\studentPerson2.cpp",
+              "RelativeToolTip": "Inheritance\\studentPerson2.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T10:40:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "studentPerson.cpp",
+              "DocumentMoniker": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\studentPerson.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\studentPerson.cpp",
+              "ToolTip": "C:\\Users\\gram\\Desktop\\korea_cppworks\\Inheritance\\Inheritance\\studentPerson.cpp",
+              "RelativeToolTip": "Inheritance\\studentPerson.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T10:27:55.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
